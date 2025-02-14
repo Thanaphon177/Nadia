@@ -20,7 +20,7 @@ $(document).ready(function() {
         // Show the iframe (video)
         video_iframe.show();
         setTimeout(function() {
-            window.location.href = "https://vt.tiktok.com/ZSMLqWFoN/"; // Replace with your video URL
+            window.location.href = "https://vt.tiktok.com/ZSMN8jES6/"; // Replace with your video URL
         }, 500); // Delay 500ms before changing to video
     });
 
